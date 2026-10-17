@@ -11,7 +11,7 @@
   - [01-8. ② Name who is responsible](pages/01-8-responsibility.md)
   - [01-9. The 8-principle judging checklist](pages/01-9-checklist.md)
 
-- [02. Case files — 21 editions](pages/02-0-intro.md)
+- [02. Case files — 18 editions](pages/02-0-intro.md)
   - [02-1. Anthropic's "first complete UV map of the sky" was not a new](pages/02-1.md)
   - [02-2. Anthropic's Claude left a false tip on Philadelphia's unsolv](pages/02-2.md)
   - [02-3. The headline that Chinese AI developers publicly disclosed s](pages/02-3.md)
