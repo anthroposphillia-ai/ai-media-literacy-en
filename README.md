@@ -1,5 +1,7 @@
 # AI Media Literacy — The 8 Principles for Judging AI News
 
+By **Vroom** (브룸) · 2026 · License CC BY 4.0
+
 AI ethics principles are everywhere and the newsroom is unchanged. This book does the opposite of
 declaring another principle: it takes **the record of judging 107 real AI news articles** and distils the
 eight tests that kept catching them.
